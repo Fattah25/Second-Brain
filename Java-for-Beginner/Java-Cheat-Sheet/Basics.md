@@ -31,4 +31,4 @@ input dan menerjemahkannya ke kode asli untuk sistem operasi yang mendasarinya. 
 2. Itu awalnya disebut *Oak*. Kemudian berganti nama menjadi *Green* dan akhirnya berganti nama menjadi **Java** yang terinspirasi dari kopi Java (kopi dari pulau Jawa).
 3. Java memiliki hampir 9 juta pengembang di seluruh dunia
 4. Sekitar 3 miliar ponsel menjalankan Java, serta 125 juta perangkat TV dan setiap pemutar Blu-Ray.
-5. Menurut [`indeed.com`](indeed.com), gaji rata-rata pengembang Java hanya lebih dari $ 100.000 per tahun di AS (sekitar Rp1,423,245,000).
+5. Menurut [`indeed.com`](https://id.indeed.com/?r=us), gaji rata-rata pengembang Java hanya lebih dari $ 100.000 per tahun di AS (sekitar Rp1,423,245,000).
