@@ -24,11 +24,11 @@ menjalankan aplikasi Java, *Java Virtual Machine* (JVM) dimuat di memori. Dibutu
 input dan menerjemahkannya ke kode asli untuk sistem operasi yang mendasarinya. Ada berbagai implementasi Java Virtual Machine untuk hampir semua sistem operasi.
 
 ## Architecture of Java Applications
-Blok tubuh terkecil dalam program Java adalah **methods** (juga disebut fungsi dalam bahasa pemrograman lain). Kita menggabungkan *methods* tertaut di dalam  **classes**, dan *classes* tertaut dalam **packages**. Modularitas di Java ini memungkinkan kita untuk memecah program besar menjadi blok bangunan yang lebih kecil yang lebih mudah dipahami dan digunakan kembali.
+*building block* terkecil dalam program Java adalah **methods** (juga disebut fungsi dalam bahasa pemrograman lain). Kita menggabungkan *methods* tertaut di dalam  **classes**, dan *classes* tertaut dalam **packages**. Modularitas di Java ini memungkinkan kita untuk memecah program besar menjadi *building block* yang lebih kecil yang lebih mudah dipahami dan digunakan kembali.
 
 # 5 Interesting Facts about Java
-1. Java dikembangkan oleh James Gosling pada tahun 1995 di Sun Microsystems (kemudian diakuisisi oleh Oracle).
-2. Itu awalnya disebut Oak. Kemudian berganti nama menjadi Green dan akhirnya berganti nama menjadi Java yang terinspirasi dari kopi Java (kopi dari pulau Jawa).
+1. Java dikembangkan oleh James Gosling pada tahun 1995 di **Sun Microsystems** (kemudian diakuisisi oleh Oracle).
+2. Itu awalnya disebut *Oak*. Kemudian berganti nama menjadi *Green* dan akhirnya berganti nama menjadi **Java** yang terinspirasi dari kopi Java (kopi dari pulau Jawa).
 3. Java memiliki hampir 9 juta pengembang di seluruh dunia
 4. Sekitar 3 miliar ponsel menjalankan Java, serta 125 juta perangkat TV dan setiap pemutar Blu-Ray.
-5. Menurut [indeed.com], gaji rata-rata pengembang Java hanya lebih dari $ 100.000 per tahun di AS(sekitar Rp1,423,245,000).
+5. Menurut [`indeed.com`](indeed.com), gaji rata-rata pengembang Java hanya lebih dari $ 100.000 per tahun di AS (sekitar Rp1,423,245,000).
