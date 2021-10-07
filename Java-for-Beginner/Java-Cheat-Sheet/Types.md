@@ -67,3 +67,131 @@ String name = "Tri Ilman";
 + toLowerCase()
 
 String tidak dapat diubah, yang berarti setelah kita menginisialisasinya, nilainya tidak dapat diubah. Semua *methods* yang memodifikasi string (seperti toUpperCase) mengembalikan objek string baru. String asli tetap tidak terpengaruh.
+
+## Escape Sequences
+Jika Anda perlu menggunakan *backslash* atau tanda kutip ganda dalam sebuah string, Anda harus mengawalinya dengan *backslash*. Ini disebut *escaping*.
+
++ \\
++ \"
++ \n (*new line*)
++ \t (tab)
+
+## Array
+Kita menggunakan array untuk menyimpan daftar objek. Kita dapat menyimpan semua jenis objek dalam sebuah array (tipe primitif atau referensi). Semua item (juga disebut elemen) dalam array memiliki tipe yang sama.
+
+```java
+// Creating and and initializing an array of 5 elements
+int[] numbers = new int[3];
+numbers[0] = 10;
+numbers[1] = 20;
+numbers[2] = 30;
+// Shortcut
+int[] numbers = { 10, 20, 30 };
+```
+
+Array Java memiliki panjang (ukuran) yang tetap. Anda tidak dapat menambah atau menghapus item baru setelah membuat *instance array*. Jika Anda perlu menambahkan item baru atau menghapus item yang ada, Anda perlu menggunakan salah satu *collection classes*.
+
+## The Array Class
+*array class* menyediakan beberapa *methods* yang berguna untuk bekerja dengan array.
+
+```java
+int[] numbers = { 4, 2, 7 };
+Arrays.sort(numbers);
+String result = Arrays.toString(numbers);
+System.out.println(result);
+```
+
+## Multi-Dimensional Arrays
+```java
+// Creating a 2x3 array (two rows, three columns)
+int[2][3] matrix = new int[2][3];
+matrix[0][0] = 10;
+// Shortcut
+int[2][3] matrix = {
+ { 1, 2, 3 },
+ { 4, 5, 6 }
+ };
+```
+
+## Constants
+Konstanta (juga disebut variabel akhir/*final variable*) memiliki nilai tetap. Setelah kita mengaturnya, kita tidak dapat mengubahnya.
+```java
+final float INTEREST_RATE = 0.04;
+```
+Dengan konvensi (kesepakatan), kita menggunakan **HURUF BESAR** untuk memberi nama konstanta. Beberapa kata dapat dipisahkan menggunakan garis bawah (*underscore*).
+
+## Arithmetic Expressions
+```java
+int x = 10 + 3;
+int x = 10 - 3;
+int x = 10 * 3;
+int x = 10 / 3; // returns an int
+float x = (float)10 / (float)3; // returns a float
+int x = 10 % 3; // modulus (remainder of division)
+```
+
+### Increment and Decrement Operators
+```java
+int x = 1;
+x++; // Equivalent to x = x + 1
+x--; // Equivalent to x = x - 1
+```
+
+### Augmented Assignment Operator 
+```java
+int x = 1;
+x += 5; // Equivalent to x = x + 5
+```
+
+## Order of Operations
+Operator perkalian dan pembagian memiliki urutan yang lebih tinggi daripada penjumlahan dan pengurangan. Mereka akan diterapkan terlebih dahulu. Kita selalu dapat mengubah urutan menggunakan tanda kurung.[^1]
+[^1]: Ingat konsep *kukabataku* (kurung, kali, bagi, tambah, kurang).
+
+```java
+int x = 10 + 3 * 2; // 16
+int x = (10 + 3) * 2; // 26
+```
+
+## Casting
+Di Java, kita memiliki dua jenis casting:
+
++ Implisit: terjadi secara otomatis saat kita menyimpan nilai dalam tipe data yang lebih besar atau lebih tepat.
++ Eksplisit: kita melakukannya secara manual.
+
+```java
+// Casting implisit terjadi karena kita mencoba menyimpan short
+// value (2 bytes) in an int (4 bytes).
+short x = 1;
+int y = x;
+// Explicit casting
+int x = 1;
+short y = (short) x;
+```
+
+Untuk mengonversi string menjadi angka, kita menggunakan salah satu *methods* berikut: 
++ Byte.parseByte(“1”)
++ Short.parseShort(“1”)
++ Integer.parseInt(“1”)
++ Long.parseLong(“1”)
++ Float.parseFloat(“1.1”)
++ Double.parseDouble(“1.1”) 
+
+## Formatting Numbers
+```java
+NumberFormat currency = NumberFormat.getCurrencyInstance();
+String result = currency.format(“123456”); // $123,456
+
+NumberFormat percent = NumberFormat.getPercentInstance();
+String result = percent(“0.04”); // 4%
+
+```
+
+## Reading Input
+```java
+Scanner scanner = new Scanner(system.in);
+double number = scanner.nextDouble();
+byte number = scanner.nextByte();
+String name = scanner.next();
+String line = scanner.nextLine();
+```
+
