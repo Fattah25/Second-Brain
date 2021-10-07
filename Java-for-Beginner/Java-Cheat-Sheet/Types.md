@@ -48,3 +48,22 @@ Untuk menggunakan *reference types*, kita perlu mengalokasikan memori menggunaka
 ```java
 Date now = new Date();
 ```
+
+## Strings
+String adalah *reference types* tetapi kita tidak perlu menggunakan operator *new* untuk mengalokasikan memori kepadanya. Kita dapat mendeklarasikan variabel string seperti primitif karena kita sering menggunakannya.
+
+```java
+String name = "Tri Ilman";
+```
+
+## Useful String Methods
+*String class* di Java menyediakan sejumlah *methods* yang berguna:
++ startsWith(“a”)
++ endsWith(“a”)
++ length() 
++ indexOf(“a”)
++ replace(“a”, “b”)
++ toUpperCase()
++ toLowerCase()
+
+String tidak dapat diubah, yang berarti setelah kita menginisialisasinya, nilainya tidak dapat diubah. Semua *methods* yang memodifikasi string (seperti toUpperCase) mengembalikan objek string baru. String asli tetap tidak terpengaruh.
