@@ -1,4 +1,4 @@
-*Ini adalah artikel terjemahan klik <a href="https://programmingwithmosh.com/wp-content/uploads/2019/07/Java-Cheat-Sheet.pdf" target="_blank">di sini</a> untuk ke artikel aslinya* dan <a href="https://youtu.be/eIrMbAQSU34" target="_blank">di sini</a> untuk tutorial youtubenya.
+*Ini adalah artikel terjemahan klik <a href="https://programmingwithmosh.com/wp-content/uploads/2019/07/Java-Cheat-Sheet.pdf" target="blank">di sini</a> untuk ke artikel aslinya* dan <a href="https://youtu.be/eIrMbAQSU34" target="blank">di sini</a> untuk tutorial youtubenya.
 
 # Basics
 Java adalah salah satu bahasa pemrograman paling populer di dunia. Dengan Java Anda dapat membangun berbagai jenis aplikasi seperti desktop, 
