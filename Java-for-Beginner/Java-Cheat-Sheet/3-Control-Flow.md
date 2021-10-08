@@ -57,5 +57,58 @@ else
 ## Switch Statements
 
 Kita menggunakan pernyataan switch untuk mengeksekusi bagian kode yang berbeda tergantung pada nilai variabel.
-[halaman sebelah](2-types.md)
 
+```java
+switch (x) {
+ case 1:
+ …
+ break;
+ case 2:
+ …
+ break;
+ default:
+ …
+} 
+```
+
+Setelah setiap klausa **case**, kita menggunakan pernyataan **break** untuk melompat keluar dari blok *switch*.
+
+## For Loops
+
+*For loop* berguna ketika kita tahu sebelumnya berapa kali kita ingin mengulang sesuatu. Kita mendeklarasikan variabel *loop* (atau penghitung *loop*) dan di setiap iterasi kita menambahkannya hingga kita mencapai pengulangan beberapa kali yang kita inginkan dalam mengeksekusi beberapa kode.
+
+```java
+for (int i = 0; i < 5; i++)
+ statement
+```
+
+## While Loops
+*While loops* berguna ketika kita tidak tahu sebelumnya berapa kali kita ingin mengulang sesuatu. Ini mungkin tergantung pada nilai saat run-time (misalnya apa yang dimasukkan pengguna).
+
+```java
+while (someCondition) {
+ …
+ if (someCondition)
+ break;
+}
+```
+
+## Do.. While Loops
+
+*Do..While loops* sangat mirip dengan perulangan *while* (*while loops*) tetapi itu dieksekusi setidaknya sekali. Sebaliknya, *while loop* mungkin tidak akan pernah dieksekusi jika kondisi awalnya salah.
+
+```java
+do {
+ …
+} while (someCondition);
+```
+
+## For-each Loops
+*For* berguna untuk mengulangi *array* atau *collection*.
+
+```java
+int[] numbers = {1, 2, 3, 4};
+for (int number : numbers)
+```
+
+> Sekian yang dapat saya terjemahkan. Ada baiknya di baca sambil menyimak tutorial dari penyedia asli ringkasan java ini.
