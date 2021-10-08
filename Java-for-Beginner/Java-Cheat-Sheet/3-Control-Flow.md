@@ -57,5 +57,5 @@ else
 ## Switch Statements
 
 Kita menggunakan pernyataan switch untuk mengeksekusi bagian kode yang berbeda tergantung pada nilai variabel.
-[halaman sebelah](1-types.md)
+[halaman sebelah](2-types.md)
 
