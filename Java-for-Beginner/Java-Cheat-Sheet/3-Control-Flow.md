@@ -14,4 +14,4 @@ x <= y
 
 ## Logical Operators
 Kita menggunakan operator logika untuk menggabungkan beberapa nilai/ekspresi boolean.
-+ x && y (AND): jika x dan y benar, hasilnya juga benar.
++ x && y (AND): jika x dan y *true*, hasilnya juga *true*.
