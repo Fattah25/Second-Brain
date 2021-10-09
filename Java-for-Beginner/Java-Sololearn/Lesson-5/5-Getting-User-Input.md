@@ -19,14 +19,37 @@ Berikut adalah beberapa metode yang tersedia melalui kelas *scanner*:
 + Membaca sebuah *short* - `nextShort()`
 + Membaca sebuah *int*[^3] - `nextInt()`
 
-[^3]: Digunakan untuk mendeklarasikan sebuah Variabel *integer* (bilangan bulat)
+[^3]: Digunakan untuk mendeklarasikan Variabel *integer* (bilangan bulat)
 + Membaca sebuah *long* - `nextLong()`
 + Membaca sebuah *float*[^4] - `nextFloat()`
 
-[^4]: Digunakan untuk mendeklarasikan sebuah Variabel *floating-number* (bilangan desimal)
+[^4]: Digunakan untuk mendeklarasikan  Variabel *floating-number* (bilangan desimal)
 + Membaca sebuah *double* - `nextDouble()`
-+ Membaca sebuah *boolean* - `nextBoolean()`
++ Membaca sebuah *boolean*[^5] - `nextBoolean()`
+[^5]: Digunakan untuk mendeklarasikan variabel *boolean*, yang mana hanya mengembalikan dua nilai: *true* dan *false*
 
 + Membaca sebuah *String* atau sebaris lengkap kalimat - `nextLine()`
 + Membaca sebuah kata - `next()`
+
+### Contoh program yang digunakan untuk mendapatkan *input* pengguna: 
+```java
+import java.util.Scanner;
+
+class MyClass{
+  public static void main(String args[]){
+      
+  }
+  
+}
+```
+> Ini akan menunggu pengguna untuk memasukkan sesuatu dan mencetak *input*nya.
+> Kode ini mungkin tampak rumit, tetapi kita akan memahami semuanya di materi selanjutnya.
+
+## Komentar Programmer: 
+
+|Samer Saber|
+|:---|
+| Saya akan menjelaskan dengan jelas `import java.util.Scanner;` :<br><br> Di Java, ada paket (*package*), dan paket-paket ini seperti wadah tempat kita bisa meletakkan kelas (*class*).<br> Setiap kali kita ingin mengambil kelas|
+
+
 
