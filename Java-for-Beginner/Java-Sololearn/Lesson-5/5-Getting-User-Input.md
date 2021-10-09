@@ -13,16 +13,20 @@ Scanner myVar = new Scanner(System.in);
 Kita sekarang dapat membaca dalam berbagai jenis data input yang dimasukkan pengguna.
 Berikut adalah beberapa metode yang tersedia melalui kelas *scanner*: 
 
-Membaca sebuah *byte* - `nextByte()`[^2]
++ Membaca sebuah *byte* - `nextByte()`[^2]
 [^2]: Selalu ingat Java sangat sensitif dengan huruf besar (*Upercase*) dan kecil (*Lowercase*). 
-Membaca sebuah *short* - `nextShort()`
-Membaca sebuah *int*[^3] - `nextInt()`
+
++ Membaca sebuah *short* - `nextShort()`
++ Membaca sebuah *int*[^3] - `nextInt()`
+
 [^3]: Digunakan untuk mendeklarasikan sebuah Variabel *integer* (bilangan bulat)
-Membaca sebuah *long* - `nextLong()`
-Membaca sebuah *float*[^4] - `nextFloat()`
++ Membaca sebuah *long* - `nextLong()`
++ Membaca sebuah *float*[^4] - `nextFloat()`
+
 [^4]: Digunakan untuk mendeklarasikan sebuah Variabel *floating-number* (bilangan desimal)
-Membaca sebuah *double* - `nextDouble()`
-Membaca sebuah *boolean* - `nextBoolean()`
-Membaca sebuah *String* atau sebaris lengkap kalimat - `nextLine()`
-Membaca sebuah kata - `next()`
++ Membaca sebuah *double* - `nextDouble()`
++ Membaca sebuah *boolean* - `nextBoolean()`
+
++ Membaca sebuah *String* atau sebaris lengkap kalimat - `nextLine()`
++ Membaca sebuah kata - `next()`
 
