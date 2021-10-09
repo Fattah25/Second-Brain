@@ -45,11 +45,12 @@ class MyClass{
 > Ini akan menunggu pengguna untuk memasukkan sesuatu dan mencetak *input*nya.
 > Kode ini mungkin tampak rumit, tetapi kita akan memahami semuanya di materi selanjutnya.
 
-## Komentar Programmer: 
+<h2> Komentar Programmer: </h2>
 
 |Samer Saber|
 |:---|
-| Saya akan menjelaskan dengan jelas `import java.util.Scanner;` :<br><br> Di Java, ada paket (*package*), dan paket-paket ini seperti wadah tempat kita bisa meletakkan kelas (*class*).<br> Setiap kali kita ingin mengambil kelas|
+| Saya akan menjelaskan dengan jelas `import java.util.Scanner;` :<br><br> Di Java, ada paket (*package*), dan paket-paket ini seperti wadah tempat kita bisa meletakkan kelas (*class*).<br> Setiap kali kita ingin mengambil *class* tertentu dalam wadahnya, Kita menggunakan *import*.<br> Di Java kita menggunakan **titik** atau "." untuk menunjukkan hierarki/tingkatan.<br> `java.util.Scanner` (di dalam *java* kita memiliki *util*, dan di dalam *util* kita memiliki *scanner*.|
+|**Contoh:**<br> `Pemilik.Document.picture` atau `Pemilik/Document/picture` (pada **windows**).<br><br> Jadi lengkapnya adalah:<br> Jengambil kelas *scanner* yang di folder *util* di dalam folder *Java*.<br> "*util*" adalah singkatan dari *utility* (utilitas/kegunaan) dan berisi *utility classes*.<br> *Scanner* adalah kelas (*class*) yang mengambil *input* dari pengguna.<br><br> `import(mengabil) java(dari Java).util(dalam paket utility).Scanner(kelas ini)`|
 
 
 
