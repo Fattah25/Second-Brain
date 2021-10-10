@@ -1,7 +1,7 @@
 # Types
 
-Table of Contents
-==================
+<h4 color=red>Table of Contents</h4>
+
 
 + [Variables](#variables)
 
