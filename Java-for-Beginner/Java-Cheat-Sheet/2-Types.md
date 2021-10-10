@@ -1,5 +1,13 @@
 # Types
 
+Table of Contents
+==================
+
++ [Variables](#variables)
+
++ [Primitive Types](#primitive-types)
++ [komen](#comments)
+
 ## Variables
 Kita menggunakan variabel untuk menyimpan data sementara di memori komputer. Di Java, **tipe** variabel harus ditentukan pada saat deklarasi.
 
