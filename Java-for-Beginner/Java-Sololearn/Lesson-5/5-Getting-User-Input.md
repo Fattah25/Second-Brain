@@ -3,9 +3,6 @@ Walaupun Java menyediakan (*provide*) banyak metode (*method*) berbeda untuk men
 ```java
 import java.util.Scanner;
 ```
-- [ ] satu
-- [ ] dua
-- [ ] tiga
 
 Untuk menggunakan kelas **scanner** (*scanner class*), buat *instance*[^1] *class* dengan menggunakan sintaks berikut:
 [^1]: Setiap objek disebut sebagai turunan (*instance*) dari sebuah kelas (*class*).
