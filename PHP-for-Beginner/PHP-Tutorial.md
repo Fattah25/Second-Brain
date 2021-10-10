@@ -82,8 +82,13 @@ Pilihan utama anda adalah:
 
 1. Instal Apache dan PHP atau Instal WAMP, LAMP, MAMP atau XAMPP sesuai dengan OS Anda. 
 2. Setelah instalasi, Anda perlu menjalankan dan memulai Server Apache dan PHP dari daftar program Anda, lalu ketik `http://localhost` di browser web Anda untuk mulai bekerja. 
-3. Di folder instalasi Apache, Anda akan menemukan folder www, tempat Anda dapat menyimpan file PHP, dan Anda juga dapat membuat folder proyek Anda di dalam folder www.
+3. Di folder instalasi Apache, Anda akan menemukan folder www, tempat Anda dapat menyimpan file PHP, dan Anda juga dapat membuat folder proyek Anda di dalam folder www .
 4.  atau Temukan paket hosting web dengan dukungan Apache, PHP, dan MySQL dan Jalankan skrip PHP Anda di host Web Anda. 
-5.  atau Anda juga dapat menggunakan antarmuka `runphonline.com` untuk menafsirkan kode PHP Anda secara online.
 
+
+## Create the Script
+Anda perlu menggunakan program editor teks untuk menulis kode Anda. Semua OS dilengkapi dengan satu atau lebih editor teks, misalnya:
++ Windows Notepad
++ Vi or Emacs on Linux
++ TextEdit on Mac OS X
 
