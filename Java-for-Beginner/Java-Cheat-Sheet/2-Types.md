@@ -4,8 +4,24 @@
 
 + [Variables](#variables)
 + [Primitive Types](#primitive-types)
-+ [Comments](#comments)
 + [Declaring Variables](#declaring-variables)
++ [Comments](#comments)
++ [ Reference Types](#reference-types)
++ [Strings](#strings)
++ [Useful String Methods](#useful-string-methods)
++ [Escape Sequences](#escape-sequences)
++ [Array](#array)
++ [The Array Class](#the-array-class)
++ [Multi Dimensional Arrays](#multi-dimensional-arrays)
++ [Constants](#constants)
++ [Arithmetic Expressions](#arithmetic-expressions)
+  + [Increment and Decrement Operators](#increment-and-decrement-operators)
+  + [Augmented Assignment Operator](#augmented-assignment-operator)
++ [Order of Operations](#order-of-operations)
++ [Casting](#casting)
++ [Formatting Numbers](#formatting-numbers)
++ [Reading Input](#reading-input)
+
 
 ## Variables
 Kita menggunakan variabel untuk menyimpan data sementara di memori komputer. Di Java, **tipe** variabel harus ditentukan pada saat deklarasi.
@@ -108,7 +124,7 @@ String result = Arrays.toString(numbers);
 System.out.println(result);
 ```
 
-## Multi-Dimensional Arrays
+## Multi Dimensional Arrays
 ```java
 // Creating a 2x3 array (two rows, three columns)
 int[2][3] matrix = new int[2][3];
@@ -201,4 +217,5 @@ byte number = scanner.nextByte();
 String name = scanner.next();
 String line = scanner.nextLine();
 ```
+[Kembali ke Awal](#types)
 
