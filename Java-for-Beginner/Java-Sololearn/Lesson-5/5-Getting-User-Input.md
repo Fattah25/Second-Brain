@@ -37,7 +37,8 @@ import java.util.Scanner;
 
 class MyClass{
   public static void main(String args[]){
-      
+      Scanner myVar = new Scanner(System.in);
+      System.out.println(myVar.nextLine()); //untuk memasukkan String type
   }
   
 }
@@ -45,7 +46,7 @@ class MyClass{
 > Ini akan menunggu pengguna untuk memasukkan sesuatu dan mencetak *input*nya.
 > Kode ini mungkin tampak rumit, tetapi kita akan memahami semuanya di materi selanjutnya.
 
-<h2> Komentar Programmer: </h2>
+<h2 style="color: blue;"> Komentar Programmer: </h2>
 
 |Samer Saber|
 |:---|
