@@ -1,5 +1,17 @@
 # Control Flow
 
+<h4>Table of Contents</4>
+
++ [Comparison Operators](#comparison-operators)
++ [Logical Operators](#logical-operators)
++ [If Statements](#if-statements)
++ [The Ternary Operator](#the-ternary-operator)
++ [Switch Statements](#switch-statements)
++ [For Loops](#for-loops)
++ [While Loops](#while-loops)
++ [Do-While Loops](#do-while-loops)
++ [For-each Loops](#for-each-loops)
+
 ## Comparison Operators
 
 Kita menggunakan operator perbandingan () untuk membandingkan nilai.
@@ -93,7 +105,7 @@ while (someCondition) {
 }
 ```
 
-## Do.. While Loops
+## Do-While Loops
 
 *Do..While loops* sangat mirip dengan perulangan *while* (*while loops*) tetapi itu dieksekusi setidaknya sekali. Sebaliknya, *while loop* mungkin tidak akan pernah dieksekusi jika kondisi awalnya salah.
 
@@ -103,7 +115,7 @@ do {
 } while (someCondition);
 ```
 
-## For-each Loops
+## For-Each Loops
 *For* berguna untuk mengulangi *array* atau *collection*.
 
 ```java
