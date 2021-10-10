@@ -217,5 +217,5 @@ byte number = scanner.nextByte();
 String name = scanner.next();
 String line = scanner.nextLine();
 ```
-[Kembali ke Awal](#types)
+[*Kembali ke Awal*](#types)
 
