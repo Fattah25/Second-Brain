@@ -1,7 +1,8 @@
 # Control Flow
 
-<h4>Table of Contents</4>
-
+<details>
+<summary><b>Table of Contents</b></summary>
+ 
 + [Comparison Operators](#comparison-operators)
 + [Logical Operators](#logical-operators)
 + [If Statements](#if-statements)
@@ -11,6 +12,7 @@
 + [While Loops](#while-loops)
 + [Do-While Loops](#do-while-loops)
 + [For-each Loops](#for-each-loops)
+</details>
 
 ## Comparison Operators
 
