@@ -1,6 +1,8 @@
 # Types
 
-<h4 color=red>Table of Contents</h4>
+
+<details>
+  <summary><b>Table of Contents</b></summary>
 
 + [Variables](#variables)
 + [Primitive Types](#primitive-types)
@@ -21,7 +23,7 @@
 + [Casting](#casting)
 + [Formatting Numbers](#formatting-numbers)
 + [Reading Input](#reading-input)
-
+</details>
 
 ## Variables
 Kita menggunakan variabel untuk menyimpan data sementara di memori komputer. Di Java, **tipe** variabel harus ditentukan pada saat deklarasi.
