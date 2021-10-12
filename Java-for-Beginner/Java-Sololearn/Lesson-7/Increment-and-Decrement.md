@@ -67,6 +67,42 @@ x pertama ditempatkan ke y, dan kemudian bertambah satu. Oleh karena itu, x menj
 
 # Assignment Operators
 
+Anda sudah akrab dengan operator penugasan/*assignment* (=), yang memberikan nilai ke variabel.
 
+```java
+int value = 5;
+```
 
+Ini menetapkan nilai 5 ke variabel yang disebut **value** dari tipe **int**.
+
+Java menyediakan sejumlah operator penugasan untuk memudahkan penulisan kode.
+
+## Addition and assignment (+=)
+
+```java
+public class Program {
+    public static void main(String[] args) {
+        int num1 = 4;
+        int num2 = 8;
+        num2 += num1;
+        
+        System.out.println(num2);
+    }
+}
+```
+
+## Subtraction and assignment (-=)
+```java
+public class Program {
+    public static void main(String[] args) {
+        int num1 = 4;
+        int num2 = 8;
+        num2 -= num1;
+        
+        System.out.println(num2);
+    }
+}
+```
+
+> 📌 Demikian pula, Java mendukung perkalian dan *assignmet* (*=), pembagian dan *assignmet* (/=), dan modulus dan *assignmet* (%=).
 
