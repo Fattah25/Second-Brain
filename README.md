@@ -4,5 +4,5 @@
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCRjRaNG_Jf159kMN-PvzsGQ?color=red&logo=youtube&logoColor=red&style=flat-square)](https://www.youtube.com/channel/UCRjRaNG_Jf159kMN-PvzsGQ)
 
 ![](https://github.com/Fattah25/Second-Brain.github.io/blob/11acce3ad7f9c8a991d7bd5c60d256842903e03b/Second%20Brain.png)
-# Second-Brain.github.io
+# Second Brain
 Jejak digital, aktivitas saya.
