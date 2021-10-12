@@ -37,7 +37,7 @@ int sum1 = 50 + 10;
 int sum2 = sum1 + 66; 
 int sum3 = sum2 + sum2;
 ```
-
+<br><br>
 ## Pengurangan
 Operator `-` mengurangi satu nilai dari nilai lainnya.
 ```java
@@ -47,7 +47,8 @@ int sum3 = sum1 - sum2;
 ```
 
 > <img src="https://img.icons8.com/ios/250/000000/pin3.png" width=20> Sama seperti dalam aljabar, Anda dapat menggunakan kedua operasi dalam satu baris. Misalnya: `int val = 10 + 5 - 2;`
-
+> 
+<br><br>
 ## Perkalian
 Operator `*` mengalikan dua nilai.
 ```java
@@ -55,6 +56,7 @@ int sum1 = 1000 * 2;
 int sum2 = sum1 * 10;
 int sum3 = sum1 * sum2;
 ```
+<br><br>
 ## Pembagian
 Operator `/` membagi satu nilai dengan yang lain.
 ```java
@@ -64,6 +66,7 @@ int sum3 = sum1 / sum2;
 ```
 > <img src="https://img.icons8.com/ios/250/000000/pin3.png" width=20> Pada contoh di atas, hasil dari persamaan pembagian akan menjadi bilangan bulat, karena **int** digunakan sebagai tipe data. Anda dapat menggunakan **double** untuk mengambil nilai dengan titik desimal.
 
+<br><br>
 ## Modulus
 
 Operasi matematika **modulus** (atau sisa) melakukan pembagian bilangan bulat dari satu nilai dengan nilai lainnya, dan mengembalikan sisa pembagian tersebut. Operator untuk operasi **modulus** adalah karakter persentase (%).
