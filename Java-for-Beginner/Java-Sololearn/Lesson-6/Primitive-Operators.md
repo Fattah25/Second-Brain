@@ -86,4 +86,4 @@ public class Program {
 **Outputnya:**<br>
 `5`
 
-> Membagi 23 dengan 6 mengembalikan hasil bagi 3, dengan sisa 5. Jadi, nilai 5 ditetapkan ke variabel **res**.
+> <img src="https://img.icons8.com/ios/250/000000/pin3.png" width=20> Membagi 23 dengan 6 mengembalikan hasil bagi 3, dengan sisa 5. Jadi, nilai 5 ditetapkan ke variabel **res**.
