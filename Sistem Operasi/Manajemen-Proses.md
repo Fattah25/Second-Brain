@@ -59,11 +59,35 @@
 ### Ada 3 kemungkinan bila sebuah proses memiliki status *running*
 
 1. Jika program telah selesai dieksekusi maka status proses berubah menjadi **TERMINATED**
-2. Jika waktu yang disediakan oleh OS untuk proses tersebut habis maka akan terjadi **interrupt* dan proses berstatus **READY*
-3. Jika suatu *event* terjadi pada saat proses dieksekusi (seperti ada request I?O) maka proses tersebut akan menunggu *event* tersebut dan proses berstatus **WAITING*
+2. Jika waktu yang disediakan oleh OS untuk proses tersebut habis maka akan terjadi **interrupt* dan proses berstatus **READY**
+3. Jika suatu *event* terjadi pada saat proses dieksekusi (seperti ada request I?O) maka proses tersebut akan menunggu *event* tersebut dan proses berstatus **WAITING**
 
 ## Proses Control Block
+PCB hanya berfungsi sebagai tempat penyimpanan informasi yang dapat bervariasi dari proses satu dengan proses yang lainnya.
 
-
+<table>
+    <tr>
+        <td align="center">pointer</td>
+        <td align="center">state proses</td>
+    </tr>
+    <tr>
+        <td colspan="2" align="center">nomor proses</td>
+    </tr>
+    <tr>
+        <td colspan="2" align="center">program counter (PC)</td>
+    </tr>
+    <tr>
+        <td colspan="2" align="center"><i>registers</i></td>
+    </tr>
+    <tr>
+        <td colspan="2" align="center">batas memori</td>
+    </tr>
+    <tr>
+        <td colspan="2" align="center">daftar berkas yang telah dibuka</td>
+    </tr>
+    <tr>
+        <td colspan="2" align="center">.......</td>
+    </tr>
+</table>
 
 
