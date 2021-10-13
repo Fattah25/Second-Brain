@@ -1,6 +1,6 @@
 # Manajemen Proses
 
-[Proses Control Block](#proses-control-block-(pcb))
+[Proses Control Block](#proses-control-block)
 ## Konsep Proses
 
 ### Tugas sistem operasi pada manajemen proses
@@ -62,7 +62,7 @@
 2. Jika waktu yang disediakan oleh OS untuk proses tersebut habis maka akan terjadi **interrupt* dan proses berstatus **READY*
 3. Jika suatu *event* terjadi pada saat proses dieksekusi (seperti ada request I?O) maka proses tersebut akan menunggu *event* tersebut dan proses berstatus **WAITING*
 
-## Proses Control Block (PCB)
+## Proses Control Block
 
 
 
