@@ -1,6 +1,6 @@
 # Manajemen Proses
 
-[Proses Control Block](#proses-control-block)
+[Proses Control Block](#proses-control-block-(pcb))
 ## Konsep Proses
 
 ### Tugas sistem operasi pada manajemen proses
