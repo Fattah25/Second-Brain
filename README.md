@@ -17,4 +17,4 @@
 
 
 
-<a href="https://learnsql.com/blog/sql-nested-select/" target="_blank">satu</a>
+<a href="https://learnsql.com/blog/sql-nested-select/" target="_parent">satu</a>
