@@ -12,4 +12,3 @@
 
 <h1 align="center">Second Brain</h1>
 
-![video](https://youtu.be/RswaXcWWCo0)
