@@ -12,3 +12,4 @@
 
 <h1 align="center">Second Brain</h1>
 
+Tempat mengembangkan pengetahuan dan bakat. Materi di dalamnya random tetapi masih seputar IT. Nikmati waktu anda jika sebagai penikmat ilmu komputer, teori tentangnya atau belajar untuk menjadi programmer. Repisotri ini akan terus terupdate selama pemilik repo ini masih memiliki minat di bidang IT. Jika tidak, maka teman-teman pembaca dapat menambahkannya tetapi jangan mengurangi sedikitpun.
