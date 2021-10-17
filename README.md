@@ -21,24 +21,26 @@ Tempat mengembangkan pengetahuan dan bakat. Materi di dalamnya random tetapi mas
 </div>
 
 
-## USEFUL WEBSITE
+## 🔗 USEFUL WEBSITE
 
-<h3 id="ideonline">IDE ONLINE</h3>
+<h3 id="ideonline">🖥️ IDE ONLINE</h3>
 
   <dl>
     <dt><a href="https://codepen.io/triilman25" target="blank">Code Pen</a></dt>
     <dd>Untuk coding HTML, CSS dan Javascript.</dd>
     <dt><a href="#">Code Board</a></dt>
     <dd>Sejenis Classroom tapi untuk coding.</dd>
+    <dt><a href="https://3v4l.org/vP5X3">PHP IDE</a></dt>
+  <dd>Khusus untuk coding <b>PHP</b> tanpa server.</dd>
   </dl>
 
-<h3 id="referensi">BELAJAR CODING</h3>
+<h3 id="referensi"> ⌨️ BELAJAR CODING</h3>
 <dl>
   <dt><a href="https://devdocs.io/" target="_blank">DevDocs</a></dt>
   <dd>Mempunyai banyak referensi belajar coding baik bahasa pemrograman ataupun selain itu seperti markdown, html, CSS dll.</dd>
   <dt><a href="https://www.w3schools.com/" target="blank">W3School</a></dt>
-  <dd>Tutorial lengkap hampir semua kebutuhan para programmer pemula.</dd>
+  <dd>Tutorial lengkap hampir semua kebutuhan para programmer pemula rekomendasi untuk <b>programmer Pemula</b>.</dd>
   <dt><a href="https://www.php.net/manual/en/">PHP</a></dt>
-  <dd>Khusus untuk belajar PHP dengan lengkap.</dd>
+  <dd>Tutorial lengkap belajar PHP.</dd>
  </dl>
 
