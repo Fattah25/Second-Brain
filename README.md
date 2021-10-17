@@ -29,11 +29,13 @@ Tempat mengembangkan pengetahuan dan bakat. Materi di dalamnya random tetapi mas
 + [Code Board](# "Sejenis classroom tapi untuk coding")
 + [PHP IDE](https://3v4l.org/vP5X3 "Khusus untuk coding PHP")
 
-### PRODUCTIVITY RESOURCE FOR PROGRAMMER
+### RESOURCE AND PRODUCTIVITY
 + [Getavataars](https://getavataaars.com/ "Avatar gratis")
 + [My Template](https://mytemplate.xyz/ "Membuat desain website template gratis")
-+ 
 
+### REFERENSI LENGKAP BAHASA PEMROGRAMAN
++ [Devdocs](https://devdocs.io/ "Mempunyai banyak artikel tentang bahasa pemrograman, framework etc")
++ [W3Schools](https://www.w3schools.com/ "Web coding")
 
 
 <!-- <h3 id="referensi"> ⌨️ BELAJAR CODING</h3>
