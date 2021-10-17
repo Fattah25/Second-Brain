@@ -21,35 +21,24 @@ Tempat mengembangkan pengetahuan dan bakat. Materi di dalamnya random tetapi mas
 </div>
 
 
-## Rekomendasi Website 
+## USEFUL WEBSITE
 
+<h3 id="ideonline">IDE ONLINE</h3>
 
-<table align="center">
- 
-  <tr>
-    <th>Website</th>
-    <th>Sub website </th>
-    <th>Description</th>
-  </tr>
-  <tr>
-    <th><a href="https://fontflipper.com/upload">Font Flipper</a></th>
-    <td>NULL</td>
-    <td>Website untuk menambahkan font pada gambar tidak untuk mengedit foto.<br>Font dapat dipilih sesuai kebutuhan dan cocok untuk membuat <i>quote</i></td>
-  </tr>
-  <tr>
-    <th rowspan=4><a href="https://devdocs.io/">Devdocs</a></th>
-    <td><a href="https://www.php.net/manual/en/">PHP</a></td>
-    <td rowspan=4>Referensi cukup lengkap untuk bahasa pemrograman cocok untuk belajar pemrograman dari awal hingga mahir. berisi referensi bahasa pemrograman, framework dan lainnya. </td>
-  </tr>
-  <td><ul><a href="https://devdocs.io/codeigniter~4/">PHP Framework</a></ul></td>
-  <tr>
-  </tr>
-  
-   <tr>
-  </tr>
-  
-   <tr>
-  </tr>
-</table>
+  <dl>
+    <dt><a href="https://codepen.io/triilman25" target="blank">Code Pen</a></dt>
+    <dd>Untuk coding HTML, CSS dan Javascript.</dd>
+    <dt><a href="#">Code Board</a></dt>
+    <dd>Sejenis Classroom tapi untuk coding.</dd>
+  </dl>
 
+<h3 id="referensi">BELAJAR CODING</h3>
+<dl>
+  <dt><a href="https://devdocs.io/" target="_blank">DevDocs</a></dt>
+  <dd>Mempunyai banyak referensi belajar coding baik bahasa pemrograman ataupun selain itu seperti markdown, html, CSS dll.</dd>
+  <dt><a href="https://www.w3schools.com/" target="blank">W3School</a></dt>
+  <dd>Tutorial lengkap hampir semua kebutuhan para programmer pemula.</dd>
+  <dt><a href="https://www.php.net/manual/en/">PHP</a></dt>
+  <dd>Khusus untuk belajar PHP dengan lengkap.</dd>
+ </dl>
 
