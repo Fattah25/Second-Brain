@@ -29,7 +29,9 @@ Tempat mengembangkan pengetahuan dan bakat. Materi di dalamnya random tetapi mas
 + [Code Board](# "Sejenis classroom tapi untuk coding")
 + [PHP IDE](https://3v4l.org/vP5X3 "Khusus untuk coding PHP")
 
-
+### PRODUCTIVITY RESOURCE FOR PROGRAMMER
++ [Getavataars](https://getavataaars.com/ "Avatar gratis")
++ 
 
 
 
