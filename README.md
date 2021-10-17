@@ -38,10 +38,10 @@ Tempat mengembangkan pengetahuan dan bakat. Materi di dalamnya random tetapi mas
   </tr>
   <tr>
     <th rowspan=4><a href="https://devdocs.io/">Devdocs</a></th>
-    <td><a href="https://www.php.net/manual/en/">PHP</a><a href="https://devdocs.io/codeigniter~4/">PHP Framework</a></td>
+    <td><a href="https://www.php.net/manual/en/">PHP</a></td>
     <td rowspan=4>Referensi cukup lengkap untuk bahasa pemrograman cocok untuk belajar pemrograman dari awal hingga mahir. berisi referensi bahasa pemrograman, framework dan lainnya. </td>
   </tr>
-    <td><a href="https://devdocs.io/codeigniter~4/">PHP Framework</a></td>
+  <td><ul><a href="https://devdocs.io/codeigniter~4/">PHP Framework</a></ul></td>
   <tr>
   </tr>
   
@@ -50,7 +50,6 @@ Tempat mengembangkan pengetahuan dan bakat. Materi di dalamnya random tetapi mas
   
    <tr>
   </tr>
-   <caption>Useful Website for Programmer</caption>
 </table>
 
 
