@@ -15,6 +15,7 @@ Merupakan model konseptual yang berfungsi untuk mengembangkan tahapan-tahapan da
 
 <h3 id="perencanaan">APA ITU PERENCANAAN?</h3>
 Proses yang dilakukan untuk membuat rencana[^1].
+
 [1]: suatu keinginan atau keputusan untuk melakukan sesuatu/mencapai sesuatu di masa depan.
 
 #### Perencanaan :
