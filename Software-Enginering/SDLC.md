@@ -14,9 +14,10 @@ Merupakan model konseptual yang berfungsi untuk mengembangkan tahapan-tahapan da
 <h2 id="planning">PLANNING</h2>
 
 <h3 id="perencanaan">APA ITU PERENCANAAN?</h3>
+
 Proses yang dilakukan untuk membuat rencana[^1].
 
-[1]: suatu keinginan atau keputusan untuk melakukan sesuatu/mencapai sesuatu di masa depan.
+[^1]: suatu keinginan atau keputusan untuk melakukan sesuatu/mencapai sesuatu di masa depan.
 
 #### Perencanaan :
 + **Why**:Mengapa dilakukan.
@@ -31,6 +32,7 @@ Proses yang dilakukan untuk membuat rencana[^1].
 
 Merupakan fase dimana ide dan pemahaman dasar *mengapa* sistem harus dibuat, *bagaimana* seharusnya sistem dibuat serta *bagaimana* membuatnya.
 
+
 <h3 id="mengapa">MENGAPA MEMBUTUHKAN PERENCANAAN?</h3>
 
 **Proyek sistem** merupakan hajatan besar di mana :
@@ -39,3 +41,5 @@ Merupakan fase dimana ide dan pemahaman dasar *mengapa* sistem harus dibuat, *ba
 + Memerlukan waktu yang cukup lama
 
 > Sehingga, perlu perencanaan yang matang dan teliti sebelum sistem tersebut diputuskan untuk dibangun dan diimplementasikan.
+
+
