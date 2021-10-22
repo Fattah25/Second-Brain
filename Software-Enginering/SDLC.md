@@ -141,6 +141,6 @@ Merupakan fase dimana ide dan pemahaman dasar *mengapa* sistem harus dibuat, *ba
     contoh first mover: Aqua, Gojek/Grab Bike
     
 
-<h3 id="analisa">1. ANALISA KELAYAKAN (<i>FEASIBILITY ANALYSIS</i>)</h3> 
+<h3 id="analisa">2. ANALISA KELAYAKAN (<i>FEASIBILITY ANALYSIS</i>)</h3> 
 
 
