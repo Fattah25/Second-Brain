@@ -72,10 +72,12 @@ Merupakan fase dimana ide dan pemahaman dasar *mengapa* sistem harus dibuat, *ba
 <br>
 
 ### PLANNING
-1. <b id="ident1-proyek">Identifikasi proyek</b> (*project identification*) [⬇️](#ident-proyek "Pemaparan lebih lanjut")
+
+  
+1. [**Identifikasi proyek**](#ident-proyek "Pemaparan lebih lanjut") (*project identification*) 
 
    + Permintaan sistem (*system request*) &rarr; mengidentifikasi dan memetakan kebutuhan bisnis (yang mengajukan project sponsor).
-3. **Melakukan analisa kelayakan** (*feasibility analysis*)
+3. [**Melakukan analisa kelayakan**](#analisa "Pemaparan lebih lanjut") (*feasibility analysis*)
 
    + Mengukur dan mengidentifikasi keuntungan yang didapatkan organisasi jika sistem informasi dibangun.
    + Melakukan analisa kelayakan (*fesibility analysis*). 
@@ -92,6 +94,8 @@ Merupakan fase dimana ide dan pemahaman dasar *mengapa* sistem harus dibuat, *ba
     + Workplan
     + staffs the project
 
+  </tr>
+</table>
 <br>
 
 <h3 id="ident-proyek">1. IDENTIFIKASI PROYEK (<i>PROJECT IDENTIFICATION</i>)</h3> 
@@ -112,13 +116,19 @@ Merupakan fase dimana ide dan pemahaman dasar *mengapa* sistem harus dibuat, *ba
 + Contoh kebutuhan bisnis (*business needs*):
 
     + **Untuk mendukung strategi pemasaran yang baru**
+
+      Ex : biasanya menggunakan strategi pemasaran konvensional, sekarang mulai merambah ke *e-commerce* untuk mendapatkan pangsa pasar yang lebih luas. contoh:`mataharimall.com`
     + **Mendukung target customer yang baru**
+
+      Ex : biasanya target pasarnya adalah para penggiat komputer, sekarang mulai mencoba ke target pasar yang lebih luas dengan membuat marketplace. contoh : `bhinneka.com`
     + **Memperbaiki hubungan interaksi dengan supplier**
+
+      Ex : biasanya proses order dengan supplier harus melalui pertemuan, telepon, datang langsung memilih barang, dll maka dengan sistem *e-procurement*, proses order barang ke supplier menjadi lebih mudah melalui sistem.
     + **Dan lain-lain**
 
 + Didokumentasikan ke dalam [*system request*](#request).
     
-***Business needs* bisa muncul karena:**
++ ***Business needs* bisa muncul karena:**
 1. Suatu "**pengalaman pahit**" yang dialami perusahaan. Contoh:
 
     + Pangsa pasar menurun
@@ -131,9 +141,6 @@ Merupakan fase dimana ide dan pemahaman dasar *mengapa* sistem harus dibuat, *ba
     contoh first mover: Aqua, Gojek/Grab Bike
     
 
-
-[🔙](#ident1-proyek "Kembali")
-
-
+<h3 id="analisa">1. ANALISA KELAYAKAN (<i>FEASIBILITY ANALYSIS</i>)</h3> 
 
 
