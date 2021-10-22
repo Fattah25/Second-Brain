@@ -69,6 +69,7 @@ Merupakan fase dimana ide dan pemahaman dasar *mengapa* sistem harus dibuat, *ba
     <td><b>Output</b>: Project Plan.<br><b>Siapa yang melakukan</b>: Project Manager</td>
   </tr>
 </table>
+<br>
 
 ### PLANNING
 1. <b id="ident1-proyek">Identifikasi proyek</b> (*project identification*) [⬇️](#ident-proyek "Pemaparan lebih lanjut")
@@ -91,20 +92,20 @@ Merupakan fase dimana ide dan pemahaman dasar *mengapa* sistem harus dibuat, *ba
     + Workplan
     + staffs the project
 
----
+<br>
 
 <h3 id="ident-proyek">1. IDENTIFIKASI PROYEK (<i>PROJECT IDENTIFICATION</i>)</h3> 
 
-<h4 id="request"> Apa itu Sysem Request??</h4>
+<h4 id="request" align="center"> Apa itu System Request??</h4>
 
 + ***System Request*** merupakan dokumen yang mendeskripsikan hal-hal utama yang melandasi dibangunnya sebuah sistem dan manfaat apa saja yang diharapkan jika sistem diimplementasikan.
 + ***System request*** disusun dan dibuat oleh <em>Project Sponsor</em>
 
-#### Siapa Project Sponsor??
+<h4 align="center">Siapa Project Sponsor??</h4>
 
    Orang atau unit kerja dalam perusahaan yang memberikan ide dan gagasan / yang mengajukan untuk membangun sebuah sistem yang dapat menjawab kebutuhan bisnis (*business need*) dari perusahaan.
 
-#### Siapa Approval Commite??
+<h4 align="center">Siapa Approval Commite??</h4>
 
 + Orang/tim/komite yang bertanggung jawab untuk mereview sebuah proyek dan memiliki kewenangan untuk menerima, menolak atau menunada pelaksanaan sebuah proyek.
 + Biasanya proyek SI teridentifikasi/muncul berdasarkan kebutuhan bisnis organisasi (*business needs*) terhadap sebuah sistem.
@@ -128,6 +129,8 @@ Merupakan fase dimana ide dan pemahaman dasar *mengapa* sistem harus dibuat, *ba
     **Misalnya** saja kita berada pada masa-masa awal teknologi internet, *smart card* dan perangkat *mobile*. Perusahaan melihat teknologi-teknologi tersebut memiliki potensi yang luar biasa untuk mendukung strategi bisnisnya. Sehingga, perusahaan dapat membangun sebuah sistem yang menggunakan seluruh teknologi tersebut dan memperkenalkan sistem tersebut di pasaran. Perusahaan sebagai ***first mover***, idealnya akan mendapatkan keuntungan selama belum ada yang menggunakan teknologi serupa. Dan kemudian terus berinovasi dengan teknologi tersebut ketika pesaing-pesaingnya mulai menggunakan teknologi serupa.
     
     contoh first mover: Aqua, Gojek/Grab Bike
+    
+
 
 [🔙](#ident1-proyek "Kembali")
 
