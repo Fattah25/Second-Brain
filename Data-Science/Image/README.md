@@ -1,0 +1,1 @@
+<h1 align="center">IMAGE ABOUT DATA SCIENCE CURICULUM</h1>
