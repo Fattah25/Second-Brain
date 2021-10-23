@@ -32,6 +32,7 @@ Tempat mengembangkan pengetahuan dan bakat. Materi di dalamnya random tetapi mas
 ### RESOURCE AND PRODUCTIVITY
 + [Getavataars](https://getavataaars.com/ "Avatar gratis")
 + [My Template](https://mytemplate.xyz/ "Membuat desain website template gratis")
++ [Web Developmen](https://web.dev/learn/)
 
 ### REFERENSI LENGKAP BAHASA PEMROGRAMAN
 + [Devdocs](https://devdocs.io/ "Mempunyai banyak artikel tentang bahasa pemrograman, framework etc")
