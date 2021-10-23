@@ -71,8 +71,6 @@ Merupakan fase dimana ide dan pemahaman dasar *mengapa* sistem harus dibuat, *ba
 </table>
 <br>
 
-### PLANNING
-
   
 1. [**Identifikasi proyek**](#ident-proyek "Pemaparan lebih lanjut") (*project identification*) 
 
