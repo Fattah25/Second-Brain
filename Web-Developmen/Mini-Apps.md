@@ -73,3 +73,13 @@ demo WeChat. Saat kode dipindai dengan aplikasi super WeChat, aplikasi mini lang
     </figcaption>
   </figure>
 </div>
+<br>
+
+Aplikasi mini juga dapat ditemukan melalui pencarian dalam aplikasi reguler di aplikasi super, dibagikan dalam pesan obrolan, atau menjadi bagian dari item berita di umpan berita. Beberapa aplikasi super memiliki gagasan akun terverifikasi yang dapat berisi aplikasi mini di profil mereka. Aplikasi mini dapat disorot ketika mereka secara fisik dekat secara geografis, seperti aplikasi mini dari sebuah bisnis di depan tempat pengguna berdiri, atau hampir tutup, seperti ketika pengguna mendapatkan petunjuk arah pada peta yang ditampilkan di aplikasi super. Aplikasi mini yang sering digunakan tersedia di laci aplikasi yang di banyak aplikasi super dapat diakses melalui gerakan menggesek ke bawah atau melalui bagian khusus di menu aplikasi super. 
+
+### The user experience
+Semua aplikasi super memiliki *interface* pengguna yang kurang lebih sama untuk aplikasi mini. Bilah atas bertema dengan nama aplikasi mini, dan, di sudut atas layar, tombol tutup di paling kanan didahului oleh menu tindakan yang menyediakan akses ke fitur umum seperti berbagi aplikasi, menambahkannya ke daftar favorit atau layar utama, melaporkan aplikasi yang menyalahgunakan, memberikan masukan, dan setelan. Tangkapan layar di bawah ini menunjukkan aplikasi mini belanja yang berjalan dalam konteks aplikasi super Alipay dengan menu tindakan terbuka.
+
+
+### UI paradigms 
+
