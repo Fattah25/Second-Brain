@@ -11,9 +11,9 @@ Merupakan model konseptual yang berfungsi untuk mengembangkan tahapan-tahapan da
 3. Design
 4. Implementasi
 
-<h2 id="planning" align="center">PLANNING</h2>
+<h1 id="planning" align="center">PLANNING</h2>
 
-<h3 id="perencanaan">APA ITU PERENCANAAN?</h3>
+<h2 id="perencanaan">APA ITU PERENCANAAN?</h3>
 
 Proses yang dilakukan untuk membuat rencana[^1].
 
@@ -28,12 +28,12 @@ Proses yang dilakukan untuk membuat rencana[^1].
 
 <br>
 
-<h3 id="apa">APA ITU SYSTEM PLANNING?</h3>
+<h2 id="apa">APA ITU SYSTEM PLANNING?</h3>
 
 Merupakan fase dimana ide dan pemahaman dasar *mengapa* sistem harus dibuat, *bagaimana* seharusnya sistem dibuat serta *bagaimana* membuatnya.
 
 
-<h3 id="mengapa">MENGAPA MEMBUTUHKAN PERENCANAAN?</h3>
+<h2 id="mengapa">MENGAPA MEMBUTUHKAN PERENCANAAN?</h3>
 
 **Proyek sistem** merupakan hajatan besar di mana :
 + Melibatkan orang yang banyak
@@ -43,7 +43,7 @@ Merupakan fase dimana ide dan pemahaman dasar *mengapa* sistem harus dibuat, *ba
 > Sehingga, perlu perencanaan yang matang dan teliti sebelum sistem tersebut diputuskan untuk dibangun dan diimplementasikan.
 
 
-<h3 id="tahapan">TAHAPAN PADA SISTEM PLANNING</h3>
+<h2 id="tahapan">TAHAPAN PADA SISTEM PLANNING</h3>
 
 <table align="center">
   <tr align="left">
@@ -96,18 +96,18 @@ Merupakan fase dimana ide dan pemahaman dasar *mengapa* sistem harus dibuat, *ba
 </table>
 <br>
 
-<h3 id="ident-proyek">1. IDENTIFIKASI PROYEK (<i>PROJECT IDENTIFICATION</i>)</h3> 
+<h2 id="ident-proyek">1. IDENTIFIKASI PROYEK (<i>PROJECT IDENTIFICATION</i>)</h3> 
 
-<h4 id="request" align="center"> Apa itu System Request??</h4>
+<h3 id="request" align="center"> Apa itu System Request??</h4>
 
 + ***System Request*** merupakan dokumen yang mendeskripsikan hal-hal utama yang melandasi dibangunnya sebuah sistem dan manfaat apa saja yang diharapkan jika sistem diimplementasikan.
 + ***System request*** disusun dan dibuat oleh <em>Project Sponsor</em>
 
-<h4 align="center">Siapa Project Sponsor??</h4>
+<h3 align="center">Siapa Project Sponsor??</h4>
 
    Orang atau unit kerja dalam perusahaan yang memberikan ide dan gagasan / yang mengajukan untuk membangun sebuah sistem yang dapat menjawab kebutuhan bisnis (*business need*) dari perusahaan.
 
-<h4 align="center">Siapa Approval Commite??</h4>
+<h3 align="center">Siapa Approval Commite??</h4>
 
 + Orang/tim/komite yang bertanggung jawab untuk mereview sebuah proyek dan memiliki kewenangan untuk menerima, menolak atau menunada pelaksanaan sebuah proyek.
 + Biasanya proyek SI teridentifikasi/muncul berdasarkan kebutuhan bisnis organisasi (*business needs*) terhadap sebuah sistem.
