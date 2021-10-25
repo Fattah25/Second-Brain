@@ -26,7 +26,7 @@ Tempat mengembangkan pengetahuan dan bakat. Materi di dalamnya random tetapi mas
 
 ### IDE ONLINE
 + [Code Pen](https://codepen.io/triilman25 "Untuk coding HTML, CSS dan Javascript")
-+ [Code Board](# "Sejenis classroom tapi untuk coding")
++ [CodeBoard](https://codeboard.io/ "Sejenis classroom tapi untuk coding")
 + [PHP IDE](https://3v4l.org/vP5X3 "Khusus untuk coding PHP")
 
 ### RESOURCE AND PRODUCTIVITY
