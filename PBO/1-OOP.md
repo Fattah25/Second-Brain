@@ -59,7 +59,7 @@ dirancang untuk mendukung semua paradigma pemrograman di atas.
 + Fungsi dan prosedur digunakan untuk memanipulasi data.
 + Data bersifat pasif.
 
-<img src="https://1.bp.blogspot.com/-lUvgDKsl5ac/V9PctlGAk7I/AAAAAAAABoc/ECbb-2wQbuALC5dzYQh8X-52Nyo-AjMXQCLcB/s1600/prosedural.jpg" width="500">
+<img src="https://1.bp.blogspot.com/-lUvgDKsl5ac/V9PctlGAk7I/AAAAAAAABoc/ECbb-2wQbuALC5dzYQh8X-52Nyo-AjMXQCLcB/s1600/prosedural.jpg" width="400">
 
 ## Pemrograman Berorientasi Objek
 
@@ -124,8 +124,16 @@ Suatu program disebut pemrograman berbasis objek (OOP) karena diantaranya terdap
 
 ## Kelebihan OOP
 
-+ Reusabilitas. class-class yang sudah ada dapat kalian gunakan kembali di project dan development yang lain. Baik langsung pakai atau hanya butuh sedikit perubahan, tetapi jauh lebih mudah daripada harus membangun class lagi, bukan?
-+ Fleksibilitas lebih tinggi 
-+ Ekstensibilitas
-+ *Less maintenance*
++ **Reusabilitas**. class-class yang sudah ada dapat kalian gunakan kembali di project dan development yang lain. Baik langsung pakai atau hanya butuh sedikit perubahan, tetapi jauh lebih mudah daripada harus membangun class lagi, bukan?
++ **Fleksibilitas lebih tinggi**. Sistem Program dapat dimodifikasi tanpa melibatkan banyak modul, hanya object yang terlibat saja. 
++ **Ekstensibilitas**. Anda dapat memperbaiki objek Anda untuk menambahkan fitur. Saat melakukannya, Anda masih dapat mempertahankan kompatibilitas mundur objek ini sehingga berfungsi baik dengan basis kode lama. Atau Anda dapat memperluas objek dan membuat objek yang sama sekali baru yang mempertahankan semua properti dan metode yang diperlukan dari objek induk dari mana ia berasal, dan kemudian memaparkan fitur baru.
++ ***Less maintenance***. Kode berorientasi objek lebih mudah dipelihara karena mengikuti konvensi pengkodean yang agak ketat dan ditulis dalam format penjelasan sendiri.
+
+## Istilah-istilah dalam OOP
+
++ **Enkapsulasi** --> menyembunyikan struktur data dan implementasi suatu *class**.
++ **Inheritansi** --> merepresentasikan keterhubungan struktural antar *class*.
++ **Polymorphism** --> kemampuan untuk merepresentasikan 2 bentuk objek yang berbeda.
+
+[selanjutnya...](#)
 
