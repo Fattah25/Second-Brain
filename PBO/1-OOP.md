@@ -63,7 +63,7 @@ dirancang untuk mendukung semua paradigma pemrograman di atas.
 
 ## Pemrograman Berorientasi Objek
 
-+ Fungsi dan data ~~bukan menjadi dua hal yang terpisah~~.
++ Fungsi dan data bukan menjadi dua hal yang terpisah.
 + Fungsi dan data menjadi satu kesatuan yang disebut sebagai **objek** aktif.
 + Cara pandang --> program adalah serangkaian objek yang bekerja sama untuk menyelesaikan suatu problem.
 
@@ -87,4 +87,23 @@ dirancang untuk mendukung semua paradigma pemrograman di atas.
     + Atribut (*state*) disimpan pada --> variabel.
     + Tingkah laku disimpan pada  --> *method*.
 
+## Karakteristik OOP
 
+Suatu program disebut pemrograman berbasis objek (OOP) karena diantaranya terdapat:
+
++ Kelas
++ Objek
++ *Encapsulation* (pembungkusan)
++ *Inheritance* (pewarisan)
++ *Polymorphism* (Polimorfisme - perbedaan bentuk/memiliki banyak bentuk)
+
+## Kelas (*class*)
+
++ Definisi *class*: merupakan *template*/*prototipe*/*blue prints* yang mendefinisikan variabel dan *method* secara umum untuk membuat *object*.
++ Objek merupakan hasil instansiasi dari suatu kelas (*class*).
++ Prose pembentukan objek daru suatu *class* disebut dengan ***instantiation***.
++ Objek disebut juga ***instances*** di dalam OOP.
+
+<img src="https://intellipaat.com/mediaFiles/2019/03/python10.png" title="Class and Object" width="500">
+
+## Class in UML
