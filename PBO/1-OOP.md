@@ -122,4 +122,10 @@ Suatu program disebut pemrograman berbasis objek (OOP) karena diantaranya terdap
 
 <img src="https://www.w3resource.com/w3r_images/java-class-image.png" width="600">
 
+## Kelebihan OOP
+
++ Reusabilitas. class-class yang sudah ada dapat kalian gunakan kembali di project dan development yang lain. Baik langsung pakai atau hanya butuh sedikit perubahan, tetapi jauh lebih mudah daripada harus membangun class lagi, bukan?
++ Fleksibilitas lebih tinggi 
++ Ekstensibilitas
++ *Less maintenance*
 
