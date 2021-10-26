@@ -59,14 +59,32 @@ dirancang untuk mendukung semua paradigma pemrograman di atas.
 + Fungsi dan prosedur digunakan untuk memanipulasi data.
 + Data bersifat pasif.
 
+<img src="https://1.bp.blogspot.com/-lUvgDKsl5ac/V9PctlGAk7I/AAAAAAAABoc/ECbb-2wQbuALC5dzYQh8X-52Nyo-AjMXQCLcB/s1600/prosedural.jpg" width="500">
+
 ## Pemrograman Berorientasi Objek
 
-+ Fungsi dan data **bukan** menjadi dua hal yang terpisah.
++ Fungsi dan data ~~bukan menjadi dua hal yang terpisah~~.
 + Fungsi dan data menjadi satu kesatuan yang disebut sebagai **objek** aktif.
 + Cara pandang --> program adalah serangkaian objek yang bekerja sama untuk menyelesaikan suatu problem.
 
 <h1 align="center">Konsep OOP</h1>
 
 ## Apa itu Objek (*Object*)
+
++ Semua benda yang ada di dunia nyata dapat dianggap sebagai obyek.
++ Contoh: rumah, mobil, sepeda motor, gelas, komputer, meja dll.
++ Objek dalam OOP juga dapat mereprensentasitakan objek dalam dunia nyata.
++ Setiap objek memiliki atribut / properti / state.
++ Setiap objek memiliki tingkah laku / method / function.
++ Contoh: objek sepeda.
+
+    + Memiliki atribut --> Warna, jumlah roda, merk, dll.
+    + Memiliki *method* --> mempercepat, melambatkan, perpindahan gigi sepeda, berhenti, dll.
+
++ Penggambaran pemrograman berorientasi objek = penggambaran pada dunia nyata.
++ Pada pemrograman berorientasi objek :
+
+    + Atribut (*state*) disimpan pada --> variabel.
+    + Tingkah laku disimpan pada  --> *method*.
 
 
