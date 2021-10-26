@@ -106,6 +106,20 @@ Suatu program disebut pemrograman berbasis objek (OOP) karena diantaranya terdap
 
 <img src="https://intellipaat.com/mediaFiles/2019/03/python10.png" title="Class and Object" width="500">
 
-## Class in UML[^2]
+### Class in UML[^2]
 
 [^2]: UML (*Unified Modelling Language*) adalah suatu metode dalam pemodelan secara visual yang digunakan sebagai sarana perancangan sistem berorientasi objek. lebih jelasnya klik [di sini](https://www.dicoding.com/blog/apa-itu-uml/ "Apa itu UML? Beserta Pengertian dan Contohnya"). 
+<p align="center">
+    
+|Cars|
+|----|
+|- color <br>- merk <br>- year|
+|speedup()<br>slowdown()<br>stop()<br>braking()|
+
+</p>
+
+### class in java
+
+<img src="https://www.w3resource.com/w3r_images/java-class-image.png" width="600">
+
+
