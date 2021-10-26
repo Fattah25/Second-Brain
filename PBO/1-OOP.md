@@ -135,5 +135,5 @@ Suatu program disebut pemrograman berbasis objek (OOP) karena diantaranya terdap
 + **Inheritansi** --> merepresentasikan keterhubungan struktural antar *class*.
 + **Polymorphism** --> kemampuan untuk merepresentasikan 2 bentuk objek yang berbeda.
 
-[selanjutnya...](#)
+[selanjutnya...](Pemrograman-Java-SE.md)
 
