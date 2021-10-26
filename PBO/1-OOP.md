@@ -44,5 +44,29 @@ dirancang untuk mendukung semua paradigma pemrograman di atas.
 
 + Adalah suatu proses untuk mengimplementasikan urutan langkah untuk menyelesaikna suatu masalah dalam bentuk pemrograman.
 + Selain pengertian diatas, **Pemorgraman Terstruktur** adalah suatu aktivitas pemrograman dengan memperhatikan urutan langkah-langkah perintah secara sistematis, logis, dan tersusun berdasarkan algoritama yang sederhana dan mudah dipahami.
++ Prinsip dari pemrograman terstruktur adalah Apabila kita sudah sampai pada langkah tertentu, kita tidak boleh mengeksekusi langkah sebelumnya. Hal ini dikecualikan pada langkah-langkah untuk proses berulang.
++ Bahasa pemrograman yang mendukung pemrograman terstruktur: *Cobol*, *Prolog*, C, *Pascal*, *Delphi*, *Borland Delphi*, dan lain-lain.
+
+<h1 align="center">Prosedural VS OOP</h1>
+
+## Bahasa Prosedural
+[link referensi](https://dwightjordan23.wordpress.com/2015/06/29/pemrograman-prosedural/)
+
++ Serangkaian tugas diselesaikan dalam bentuk fungsi atau prosedur.
++ Cara pandang --> Program adalah suatu urutan instruksi.
++ Programmer harus mem-*break down* suatu problem menjadi sub problem yang lebih simpel.
++ *Fungsi* dan *prosedur* menjadi fokus utama.
++ Fungsi dan prosedur digunakan untuk memanipulasi data.
++ Data bersifat pasif.
+
+## Pemrograman Berorientasi Objek
+
++ Fungsi dan data **bukan** menjadi dua hal yang terpisah.
++ Fungsi dan data menjadi satu kesatuan yang disebut sebagai **objek** aktif.
++ Cara pandang --> program adalah serangkaian objek yang bekerja sama untuk menyelesaikan suatu problem.
+
+<h1 align="center">Konsep OOP</h1>
+
+## Apa itu Objek (*Object*)
 
 
