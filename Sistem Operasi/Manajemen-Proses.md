@@ -60,12 +60,12 @@
 
 1. Jika program telah selesai dieksekusi maka status proses berubah menjadi **TERMINATED**
 2. Jika waktu yang disediakan oleh OS untuk proses tersebut habis maka akan terjadi **interrupt** dan proses berstatus **READY**
-3. Jika suatu *event* terjadi pada saat proses dieksekusi (seperti ada request I?O) maka proses tersebut akan menunggu *event* tersebut dan proses berstatus **WAITING**
+3. Jika suatu *event* terjadi pada saat proses dieksekusi (seperti ada request I/O) maka proses tersebut akan menunggu *event* tersebut dan proses berstatus **WAITING**
 
 ## Proses Control Block
 PCB hanya berfungsi sebagai tempat penyimpanan informasi yang dapat bervariasi dari proses satu dengan proses yang lainnya.
 
-<table>
+<table align="right">
     <tr>
         <td align="center">pointer</td>
         <td align="center">state proses</td>
@@ -89,5 +89,20 @@ PCB hanya berfungsi sebagai tempat penyimpanan informasi yang dapat bervariasi d
         <td colspan="2" align="center">.......</td>
     </tr>
 </table>
+
+### PCB Berisi Informasi dari Proses
+
++ **Status Proses**
+
+    Status yang mungkin dimiliki oleh setiap proses:*new*, *rady*, *running*, *waiting*, *terminated*.
+
++ **Program Counter**
+
+    Menunjukkan alamat berikutnya yang akan dieksekusi oleh proses tersebut.
+
++ **CPU Register**
++ **Informasi Penjadwalan CPU 
+
+
 
 
