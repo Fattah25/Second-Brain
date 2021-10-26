@@ -40,4 +40,9 @@ dirancang untuk mendukung semua paradigma pemrograman di atas.
 
 [^1]: Pernyataan yang ringkasa dan jelas.
 
+## Pemrograman Terstruktur?
+
++ Adalah suatu proses untuk mengimplementasikan urutan langkah untuk menyelesaikna suatu masalah dalam bentuk pemrograman.
++ Selain pengertian diatas, **Pemorgraman Terstruktur** adalah suatu aktivitas pemrograman dengan memperhatikan urutan langkah-langkah perintah secara sistematis, logis, dan tersusun berdasarkan algoritama yang sederhana dan mudah dipahami.
+
 
