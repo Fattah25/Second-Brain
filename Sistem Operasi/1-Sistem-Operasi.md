@@ -63,8 +63,8 @@ Sistem komputer adalah sekumpulan sumber daya untuk memindahkan, menyimpan, dan 
       + Utilitas untuk mengendalikan perangkat I/O
       + Utilitas-utilitas untuk tugas dasar lainnya
 
-    + **Mempergunakan fasilitas sistem melalui interface layanan (*service interface*)
-    + Mempergunakan panggilan sistem (*system calls*)
+    + **Mempergunakan fasilitas sistem melalui interface layanan (*service interface*)**
+    + **Mempergunakan panggilan sistem (*system calls*)**
 
 + **Perancang SO**
 
@@ -102,6 +102,6 @@ Sistem operasi bertanggung jawab terhadap aktifitas yang berhubungan dengan mana
 
 ## 2 Manajemen Memori Utama
 
-+ Memori sebagai tempat penyimpanan instruksi/dat dari program.
++ Memori sebagai tempat penyimpanan instruksi/data dari program.
 
 
