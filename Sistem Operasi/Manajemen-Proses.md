@@ -70,6 +70,8 @@
 2. Jika waktu yang disediakan oleh OS untuk proses tersebut habis maka akan terjadi **interrupt** dan proses berstatus **READY**
 3. Jika suatu *event* terjadi pada saat proses dieksekusi (seperti ada request I/O) maka proses tersebut akan menunggu *event* tersebut dan proses berstatus **WAITING**
 
+<br>
+
 ## Proses Control Block
 PCB hanya berfungsi sebagai tempat penyimpanan informasi yang dapat bervariasi dari proses satu dengan proses yang lainnya.
 
@@ -126,6 +128,9 @@ PCB hanya berfungsi sebagai tempat penyimpanan informasi yang dapat bervariasi d
     + Infomasi daftar file-file yang sedang kiakses.
 
 [^3]: CPU yang merupakan singkatan dari Central Processing Unit adalah komponen keras atau perangkat hardware pemroses data utama dalam sebuah komputer.
+
+<br>
+
 # KONSEP PENJADWALAN
 
 + Konsep dari Multiprogramming :
