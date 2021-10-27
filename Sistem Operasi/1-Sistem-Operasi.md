@@ -68,5 +68,40 @@ Sistem komputer adalah sekumpulan sumber daya untuk memindahkan, menyimpan, dan 
 
 + **Perancang SO**
 
-  SO bertugas untuk me-*masking* perangkat keras komputer agar tampil menarik, mudah dan nyaman bagi programmer. SO menghindari rincian operasi perangkat keras dan menyediakan antarmuka untuk programmer dalam menggunakan sistem. SO bertindak sebagai mediator, mempermudah programmer dan program aplikasi mengakses dan menggunakan fasilitas dan sumber daya sistem komputer.
+SO bertugas untuk me-*masking* perangkat keras komputer agar tampil menarik, mudah dan nyaman bagi programmer. SO menghindari rincian operasi perangkat keras dan menyediakan antarmuka untuk programmer dalam menggunakan sistem. SO bertindak sebagai mediator, mempermudah programmer dan program aplikasi mengakses dan menggunakan fasilitas dan sumber daya sistem komputer.
+
+
+<img src="http://2.bp.blogspot.com/-nNfzdeDKMVU/VMMg0_n4FxI/AAAAAAAAAAg/J6aJqH9X9Mg/s1600/layer.jpg" width="500">
+
+## Kebanyakan sistem operasi memiliki komponen-komponen yang mendukung :
+
+1. [Manajemen proses](#1-manajemen-proses)
+2. Manajemen memori utama
+3. Manajemen berkas/file
+4. Manajemen I/O
+5. Manajemen penyimpanan sekunder
+6. Jaringan
+7. Sistem proteksi
+8. Command - Interpreter system
+
+## 1 Manajemen Proses
+
++ Proses adalah sebuah program yang sedang dijalankan (eksekusi).
++ Suatu proses memerlukan sumberdaya pada saat eksekusi yaitu CPU time, memori, berkas dan peranti I/O.
+
+Sistem operasi bertanggung jawab terhadap aktifitas yang berhubungan dengan manajemen proses yaitu :
+
++ Pembuatan dan penghapusan proses
++ Penundaan dan pelanjutan proses
++ penyediaan mekanisme untuk :
+
+  + Sinkronisasi antar proses
+  + Komunikasi antar proses
+  + Penanganan deadlock
+
+
+## 2 Manajemen Memori Utama
+
++ Memori sebagai tempat penyimpanan instruksi/dat dari program.
+
 
