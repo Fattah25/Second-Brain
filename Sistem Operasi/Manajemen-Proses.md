@@ -1,7 +1,14 @@
-# Manajemen Proses
+<h1 align="center">MANAGEMEN PROSES</h1>
 
-[Proses Control Block](#proses-control-block)
-## Konsep Proses
+<details>
+    <summary><b>Table of Content</b></summary>
+    
++ [Proses Control Block](#proses-control-block)
+    
+    
+</details>
+
+# KONSEP PROSES
 
 ### Tugas sistem operasi pada manajemen proses
 
@@ -100,9 +107,77 @@ PCB hanya berfungsi sebagai tempat penyimpanan informasi yang dapat bervariasi d
 
     Menunjukkan alamat berikutnya yang akan dieksekusi oleh proses tersebut.
 
-+ **CPU Register**
-+ **Informasi Penjadwalan CPU 
++ **CPU[^3] Register**
 
+    Accumulator, register index, stack pointer, dan register serbaguna.
++ **Informasi Penjadwalan CPU**
+
+    Berisi prioritas dari proses, pointer ke antrian penjadwalan, parameter penjadwalan lainnya.
++ **Informasi Manajemen Memori**
+
+    Berisi nilai dari dasar (basis) dan limit (batas) register, tabel page, atau tabel segmen.
++ **Informasi *Accounting***
+
+   Berisi jumlah CPU dan real time yang digunakan, batas waktu, jumlah job atau proses dll.     
++ **Informasi Status I/O**
+
+    + Informasi daftar dari perangkat I/O yang digunakan untuk proses ini.
+    + Infomasi daftar file-file yang sedang kiakses.
+
+[^3]: CPU yang merupakan singkatan dari Central Processing Unit adalah komponen keras atau perangkat hardware pemroses data utama dalam sebuah komputer.
+# KONSEP PENJADWALAN
+
++ Konsep dari Multiprogramming :
+
+    + Suatu proses akan menggunakan CPU sampai proses tersebut dalam status *wait* (misal: meminta I/O) selesai.
+    + Pada saat *wait* --> CPU akan menganggur, untuk mengatasi hal ini CPU dialihkan ke proses lain yang berstatus *ready*.
++ Tujuan dari Multiprogramming adalah : 
+
+    + Untuk memaksimalkan penggunaan CPU dengan cara mengatur alokasi waktu yang digunakan oleh CPU untuk memperkecil waktu *idle* (menganggur). 
+
+## Bentuk Penjadwalan
+
++ Antrian
++ Penjadwalan (*scheduler*)
++ Context switch
+
+## Antrian Penjadwalan
+
+*Queue Scheduling* dapat diklasifikasikan dalam 3 kategori :
+
++ Job Queue
+
+    + Antrian berisi semua proses yang masuk dalam sistem.
+
++ Ready Queue
+
+    + Proses yang berada pada memori utama, siap dan menunggu untuk dieksekusi.
+
++ Device Queue
+
+    + Deretan proses yang sedang menunggu peralatan I/O.
+    + Tiap peralatan I/O memiliki device queue.
+
+
+
+<img src="https://1.bp.blogspot.com/-77BiATO6XeQ/XgIzWx2UwXI/AAAAAAAABU8/ReQ3ktOdH8gqTYd5JpXGwQVjK-XM31rSACNcBGAsYHQ/s1600/Gambar4.jpg" width="500" align="right">
+
+
++ Setiap antrian disimpan sebagai *linked list* dan barisi pointer awal dan akhir PCB.
++ Tiap PCB memiliki suatu pointer menunjuk ke proses selanjutnya pada antrian.
++ Proses baru mula-mula diletakkan di *ready queue* dan menunggu sampai dipilih untuk dieksekusi (*dispatched*) CPU.
++ Ketika proses dialokasikan CPU dan dieksekusi, terjadi satu dari event berikut:
+
+    + Proses meminta I/O dan kemudian ditempatkan pada I/O *queue*.
+    + Proses membuat sub proses baru dan menunggu diterminasi.
+    + Proses dihapus dari CPU karena di*interupt* dan dikembalikan ke *ready queue*.
+
+
+
+
+
+                                                                                                     
+                                                                    
 
 
 
