@@ -4,6 +4,7 @@
     <summary><b>Table of Content</b></summary>
     
 + [Proses Control Block](#proses-control-block)
++ [Konsep Penjadwalan](#konsep-penjadwalan)
     
     
 </details>
@@ -172,6 +173,9 @@ PCB hanya berfungsi sebagai tempat penyimpanan informasi yang dapat bervariasi d
     + Proses membuat sub proses baru dan menunggu diterminasi.
     + Proses dihapus dari CPU karena di*interupt* dan dikembalikan ke *ready queue*.
 
++ Proses penjadwalan dapat direpresentasikan secara umum dalam bentuk diagram :
+
+<img src="https://www.researchgate.net/profile/Maysoon-Mohammed/publication/337448111/figure/fig1/AS:828144391053313@1574456417824/Queuing-Diagram-for-Scheduling-in-OS.png" width="500" align="right">
 
 
 
