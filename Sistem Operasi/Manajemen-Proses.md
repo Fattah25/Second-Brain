@@ -139,7 +139,7 @@ PCB hanya berfungsi sebagai tempat penyimpanan informasi yang dapat bervariasi d
 ## Bentuk Penjadwalan
 
 + Antrian
-+ Penjadwalan (*scheduler*)
++ Penjadwal (*scheduler*)
 + Context switch
 
 ## Antrian Penjadwalan
@@ -175,7 +175,10 @@ PCB hanya berfungsi sebagai tempat penyimpanan informasi yang dapat bervariasi d
 
 + Proses penjadwalan dapat direpresentasikan secara umum dalam bentuk diagram :
 
-<img src="https://www.researchgate.net/profile/Maysoon-Mohammed/publication/337448111/figure/fig1/AS:828144391053313@1574456417824/Queuing-Diagram-for-Scheduling-in-OS.png" width="500" align="right">
+<img src="https://www.researchgate.net/profile/Maysoon-Mohammed/publication/337448111/figure/fig1/AS:828144391053313@1574456417824/Queuing-Diagram-for-Scheduling-in-OS.png" width="500" align="center">
+
+## Scheduler (Penjadwal)
+
 
 
 
