@@ -33,7 +33,7 @@ Sistem komputer adalah sekumpulan sumber daya untuk memindahkan, menyimpan, dan 
 + Efisiensi
 + Mampu berevolusi
 
-### Fungsi SO
+## Fungsi SO
 + Mengatur dan mengawasi penggunaan perangkat keras oleh berbagai program aplikasi serta para pengguna.
 + Untuk menghindari konflik yang terjadi pada saat pnegguna menggunakan sumber daya yang sama, sistem operasi mengatur pengguna mana yang dapat mengakses suatu sumberdaya dan kapan waktunya. Sistem operasi juga sering disebut *resource allocator* (pengalokasian sumberdaya).
 + Program mengendali yang bertujuan untuk menghindari kekeliruan (*error*) dan penggunaan komputer yang tidak perlu serta memberikan *feedback* pada pengguna.
@@ -47,4 +47,26 @@ Sistem komputer adalah sekumpulan sumber daya untuk memindahkan, menyimpan, dan 
   + Program
 
 ## Sudut Pandang SO
++ **Pemakai**
+
+  Pemakai tidak ada kaitannya dengan arsitektur komputer. User hanya sebatas menggunakan *command language* SO untuk meminta layanan-layanan SO. *Command language* tersedia dilapisan yang disebut **shell**, *shell* dapat berupa: **Text-based** dan **GUI (Graphical User Interface)**.
+
++ **Pemrograman / Programmer**
+
+  + Programmer membuat aplikasi untuk pemakai awam dengan menggunakan bahasa pemrograman. Jika ini secara langsung dikembangkan dengan instruksi bahasa mesin maka programmer bertanggung jawab mengelola dan mengedalikan seluruh perangkat komputer.
+  + Programmer dapat mengendalikan sistem komputer melalui beragam level, antara lain : 
+
+    + **Mempergunakan program utilitas**, sekumpulan program sistem disediakan untuk mempermudah tugas pemrograman. Kumpulan ini disebut *utilitas*, utilitas sudah menjadi satu paket dengan sistem operasi yang akan diterjemahkan menjadi layanan-layanan SO. Utilitas yang bisa disediakan adalah:
+
+      + Utilitas untuk membantu penciptaan program
+      + Utilitas untuk manajemen berkas
+      + Utilitas untuk mengendalikan perangkat I/O
+      + Utilitas-utilitas untuk tugas dasar lainnya
+
+    + **Mempergunakan fasilitas sistem melalui interface layanan (*service interface*)
+    + Mempergunakan panggilan sistem (*system calls*)
+
++ **Perancang SO**
+
+  SO bertugas untuk me-*masking* perangkat keras komputer agar tampil menarik, mudah dan nyaman bagi programmer. SO menghindari rincian operasi perangkat keras dan menyediakan antarmuka untuk programmer dalam menggunakan sistem. SO bertindak sebagai mediator, mempermudah programmer dan program aplikasi mengakses dan menggunakan fasilitas dan sumber daya sistem komputer.
 
