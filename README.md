@@ -37,13 +37,14 @@ Tempat mengembangkan pengetahuan dan bakat. Materi di dalamnya random tetapi mas
 ### REFERENSI LENGKAP BAHASA PEMROGRAMAN
 + [Devdocs](https://devdocs.io/ "Mempunyai banyak artikel tentang bahasa pemrograman, framework etc")
 + [W3Schools](https://www.w3schools.com/ "Web coding")
++ [PHP Back end](https://www.php.net/manual/en/ "belajar php")
 
 ### IDE OFFLINE
 + [Micro](https://micro-editor.github.io/ "IDE Teriminal ringan")
 
 
 <!-- <h3 id="referensi"> ⌨️ BELAJAR CODING</h3>
-<dl>
+
   <dt><a href="https://devdocs.io/" title="Tri Ilman Almunawarah Fattah">DevDocs</a></dt>
   <dd>Mempunyai banyak referensi belajar coding baik bahasa pemrograman ataupun selain itu seperti markdown, html, CSS dll.</dd>
   <dt><a href="https://www.w3schools.com/" target="blank">W3School</a></dt>
