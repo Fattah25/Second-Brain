@@ -8,9 +8,9 @@ dan penutup akan diabaikan oleh pengurai (*parser*) PHP.
 
 PHP menyertakan tag *echo* pendek `<?=` yang merupakan singkatan dari  `<?php echo` yang lebih bertele-tele (*verbose*).
 
-**Contoh PHP *Opening* dan *closing* tag
+**Contoh PHP *Opening* dan *closing* tag**
 
-```php
+```PHP
 
  /*1. */ <?php echo 'jika Anda ingin menyajikan kode PHP dalam dokumen XHTML atau XML, gunakan tag ini'; ?>
  /*2. Anda dapat menggunakan tag echo pendek untuk*/ <?= 'print this string' ?>.
@@ -45,6 +45,44 @@ echo "Last statement";
 ### Komentar
 
 Three types of tag are available in php
-1.normal tag(`<?php ?>`)
-2.short echo tag(`<?= ?>`)
-3.short tag(<? ?>)
+1. normal tag(`<?php ?>`)
+2. short echo tag(`<?= ?>`)
+3. short tag(`<? ?>`)
+
+Karena *short tag* dapat dinonaktifkan, jadi gunakan *normal echo tag* dan *short echo tag* saja.
+
+Jika Anda hanya ingin mencetak satu teks atau sesuatu, Anda harus menggunakan versi ringkas .`<?= $var ?>`
+
+etapi jika Anda ingin memproses sesuatu, Anda harus menggunakan tag normal.
+
+```PHP
+<?php
+        //$var = 3;
+        //$var2 = 2;
+        //$var3 = $var+$var2;
+        //if($var3){//result}
+
+?>
+```
+
+Jika Anda menyematkan php dengan html dan hanya satu baris, tidak perlu menggunakan *titik koma*
+
+```html
+<html>
+<head>
+<body>
+<?= $var ?>
+</body>
+</head>
+</html>
+```
+
+tetapi jika Anda memiliki banyak baris, gunakan titik koma.
+
+```php
+<?php
+//line 1;
+//line 2;
+//line 3;
+?>
+```
