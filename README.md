@@ -38,6 +38,7 @@ Tempat mengembangkan pengetahuan dan bakat. Materi di dalamnya random tetapi mas
 + [Devdocs](https://devdocs.io/ "Mempunyai banyak artikel tentang bahasa pemrograman, framework etc")
 + [W3Schools](https://www.w3schools.com/ "Web coding")
 + [PHP Back end](https://www.php.net/manual/en/ "belajar php")
++ [Javascript](https://id.javascript.info/)
 
 ### IDE OFFLINE
 + [Micro](https://micro-editor.github.io/ "IDE Teriminal ringan")
