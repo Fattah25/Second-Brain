@@ -40,6 +40,22 @@ echo "Last statement";
 // the script ends here with no PHP closing tag
 
 ```
+## Escaping from HTML
+
+Segala sesuatu di luar sepasang  _opening_ dan _closing_ tag diabaikan oleh pengurai PHP yang memungkinkan file PHP memiliki konten campuran. Hal ini memungkinkan PHP untuk disematkan dalam dokumen HTML, misalnya untuk membuat _template_.
+
+```php
+<p>Ini akan diabaikan oleh PHP dan ditampilkan oleh browser.</p>
+<?php echo 'While this is going to be parsed.'; ?>
+<p>Ini juga akan diabaikan oleh PHP dan ditampilkan oleh browser.</p>
+```
+
+Ini berfungsi seperti yang diharapkan, karena ketika _interpreter_ PHP menyentuh _closing tag_ ?>, itu hanya mulai mengeluarkan apa pun yang ditemukannya (kecuali untuk baris baru yang segera mengikuti - lihat [_instruction separation_][1]) hingga menyentuh _opening tag_ lain kecuali di tengah _conditional statement_ dalam hal ini _interpreter_ akan menentukan hasil dari kondisi sebelum membuat keputusan tentang apa yang harus dilewati. Lihat contoh berikutnya. Menggunakan struktur dengan kondisi.
+
+**Example: advence**
+
+[1]: https://id.javascript.info/hello-world
+
 ------
 
 ### Komentar
